@@ -1,0 +1,9 @@
+{
+  "urlRandomness": "s2-vhm",
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "strict": false,
+  "minify": false,
+  "urlType": "exp"
+}

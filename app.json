@@ -1,0 +1,5 @@
+{
+  "name": "ProjetoTesteNative",
+  "displayName": "ProjetoTesteNative",
+  "expo": { "name": "First App", "slug": "first-app", "sdkVersion": "20.0.0" }
+}
